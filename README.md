@@ -1,6 +1,6 @@
 # HybPhaser
 
-**Version 2.0** -- this version is a major update from the version 1.2. It contains changes in regards to file generation and output. The workflos should be faster and easier to use. In addition, a number of bugs have been removed. 
+**Version 2.0** --Esta versión es una mejora significativa de la versión anterior 1.2. It contains changes in regards to file generation and output. The workflos should be faster and easier to use. In addition, a number of bugs have been removed. 
 
 HybPhaser was developed to deal with hybrids (and polyploids) in target capture datasets. 
 
